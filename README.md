@@ -11,7 +11,7 @@ I have leanred to use jQuery and Monment.js to build this scheduler. I had issue
 * Moment.js
 
 ## Website
-https://joce1ynn.github.io/jQuery-work-day-scheduler/
+https://joce1ynn.github.io/work-day-scheduler-API/
 
 ## Website Screenshot
 ![Screenshot](/assets/images/wds.png)
